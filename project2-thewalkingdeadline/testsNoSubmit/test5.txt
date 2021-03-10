@@ -1,0 +1,17 @@
+# Named zombies only, All Zombies - same distance and speed in round 2
+quiver-capacity: 3
+random-seed: 1
+max-rand-distance: 50
+max-rand-speed: 60
+max-rand-health: 1
+---
+round: 1
+named-zombies: 3
+Tom distance: 30 speed: 10 health: 2
+MarySueColeman distance: 30 speed: 10 health: 2
+LeeBollinger distance: 30 speed: 10 health: 2
+---
+round: 2
+named-zombies: 2
+JamesDuderstadt distance: 20 speed: 10 health: 1
+MarkSchlissel distance: 20 speed: 10 health: 1

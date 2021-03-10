@@ -1,0 +1,11 @@
+# my test case
+quiver    6
+seed   123456
+rand-dist 35
+rand-speed 10
+rand-health 5
+---
+round: 2
+rndzmbs 5
+named 1
+rama    distance: 20  speed: 10  health: 3

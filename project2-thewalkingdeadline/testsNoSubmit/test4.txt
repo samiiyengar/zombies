@@ -1,0 +1,17 @@
+# Named zombies only, Zombies aren't moving
+quiver-capacity: 3
+random-seed: 1
+max-rand-distance: 50
+max-rand-speed: 60
+max-rand-health: 1
+---
+round: 1
+named-zombies: 3
+MarkSchlissel distance: 10 speed: 0 health: 2
+MarySueColeman distance: 10 speed: 0 health: 2
+LeeBollinger distance: 10 speed: 0 health: 2
+---
+round: 2
+named-zombies: 2
+JamesDuderstadt distance: 10 speed: 0 health: 1
+Tom distance: 20 speed: 10 health: 1

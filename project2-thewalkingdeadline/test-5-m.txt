@@ -1,0 +1,18 @@
+# my test case
+quiver    9
+seed   123456
+rand-dist 35
+rand-speed 10
+rand-health 5
+---
+round: 1
+rndzmbs 3
+named 0
+---
+round: 2
+rndzmbs 3
+named 0
+---
+round: 4
+rndzmbs 3
+named 0
